@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://188.254.16.92:7777/gateway/services/SID0003022?WSDL" uri="wsdl/188.254.16.92_7777/gateway/services/SID0003022.wsdl"/>
+</catalog>
